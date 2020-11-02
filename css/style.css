@@ -19,14 +19,11 @@ h2{
   text-align:center;
   padding: center;
   }
-/********* Descripbing Header text align margins and style **********/
 h1 {
   text-align: center;
   margin-top: 5%;
   margin-bottom: 5%; 
 }
-/********* Section text/background align margins padding and style **********/
-  
 .section {  
   clear: margin;
   position: relative;
